@@ -4,26 +4,18 @@
 
 ## Project Type
 Fullstack
-backend is done with Node.js and Express.js
-front end is done with React
+backend is done with Node.js and Express.js <br />
+front end is done with React <br />
 Data base user Postgres (deployed on render)
 
+## Deployed link
+frontend https://cointab-frontend-zjxl.vercel.app/ <br />
+backend https://cointabbackend-xg88.onrender.com
 
 ## Directory Structure
-Cointab/
-├─ backend/
-|  ├─ config
-|  |   ├─ config.json
-|  |
-|  ├─ controllers
-|  |   ├─ userrouter.js
-|  |
-|  ├─ models
-|  |   ├─ postmodel.js
-|  |   ├─ usermodel.js
-|  ├─ index.js
-|  ├─ package.json
-├─ frontend/
+Cointab/<br />
+├─ backend/<br />
+├─ frontend/<br />
 │  ├─ ...my-app
 
 
