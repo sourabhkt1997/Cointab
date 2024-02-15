@@ -41,7 +41,10 @@ npm start
 
 ## API Endpoints
 
-
+POST /api/adduser - add user to database <br/>
+GET /api/userpost/:id - route getting userdata <br/>
+POST /api/bulkadd/:userId - route for bulkadding of post in database<br/>
+GET /api/download/:userId - route for downloading data in to exelsheet <br/>
 
 ## Technology Stack
 List and provide a brief overview of the technologies used in the project.
@@ -51,3 +54,5 @@ List and provide a brief overview of the technologies used in the project.
 - postgres SQL
 - sequelize
 - exceljs
+- react
+  
